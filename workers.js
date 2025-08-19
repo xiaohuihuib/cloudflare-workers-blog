@@ -1,7 +1,7 @@
 'use strict';
 const OPT = {
     "user" : "admin", //后台密码请修改
-    "password" : "20240208bB", //后台密码
+    "password" : "20140208bB", //后台密码
     "siteDomain" : "blogs.xhhb.dpdns.org",// 域名(不带https 也不带/)
     "siteName" : "小辉辉b博客",//博客名称
     "siteDescription":"小辉辉b的个人博客",//博客描述
